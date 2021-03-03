@@ -7,3 +7,7 @@ int func() {
 int func2() {
 	return 1;
 }
+
+int func3() {
+	return 2;
+}
